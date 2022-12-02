@@ -116,3 +116,20 @@ p{
 a{
   font-size: 25px;
 }
+.ingresar button{
+  margin: 20px;
+  border: none;
+  background: #85586F;
+  color: #DEB6AB;
+  left: 64%;
+  top: 55%;
+  font-size: 18px;
+  border-radius: 20px;
+  width: 130px;
+  height: 30px;
+}
+button:hover{
+  cursor: pointer;
+  background: #DEB6AB;
+  color: #85586F;
+}
